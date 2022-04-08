@@ -1,5 +1,6 @@
 # YOUR PROJECT TITLE
-~朝が苦手な人へ~
+朝が苦手な人へ
+
 "音楽とともに家を出る"
 
 #### Video Demo: <URL https://www.youtube.com/watch?v=ddmLbRzls7g>
